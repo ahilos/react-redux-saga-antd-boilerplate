@@ -10,7 +10,7 @@
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "react": "^16.8.2",
-    "react-app-rewired": "^2.1.0",
+    "react-app-rewired": "^2.1.7",
     "react-dom": "^16.8.2",
     "react-redux": "^7.1.0",
     "react-router-dom": "^5.0.1",
